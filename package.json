@@ -1,0 +1,12 @@
+{
+  "name": "drax-esports-server",
+  "version": "1.0.0",
+  "description": "DRAX ESPORTS Free Fire MAX Tournament Platform with Host Admin & UPI Payment Queue",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
